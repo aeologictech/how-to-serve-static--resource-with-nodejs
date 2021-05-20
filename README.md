@@ -1,0 +1,1 @@
+# how-to-serve-static--resource-with-nodejs
